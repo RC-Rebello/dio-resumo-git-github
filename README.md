@@ -1,5 +1,5 @@
 
-# DIO | Resumos Git Github    
+# DIO | Resumo Git Github    
 
 Repositório para armazenar resumos sobre Git/Github do curso de versionamento do código com Git da DIO.
 [DIGITAL INNOVATION ONE](https://web.dio.me/track/randstad-analise-de-dados/course/versionamento-de-codigo-com-git-e-github)
